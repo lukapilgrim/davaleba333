@@ -1,0 +1,60 @@
+div{
+	background-color: #24d4f0;
+	display:  inline-block;
+	height: 300px ;
+	width: 300px;
+
+
+}
+section{
+
+	height: 300px;
+	width: 300px;
+}
+body{
+
+	color: white;
+}
+
+	.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  
+}
+
+.image2 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  
+}
+.parent2 {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image11 {
+  position: relative;
+  top: 0;
+  left: 0;
+  box-align: baseline;
+}
+
+.image22 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  
+}
+ravici{
+	display: inline-block;
+
+}
